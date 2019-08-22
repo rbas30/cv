@@ -1,0 +1,12 @@
+body {
+  font-weight: bold;
+}
+
+h3, th, td {
+  padding-left: 0.5vw;
+}
+
+table td {
+  font-weight: bold;
+  padding-right: 0.5vw;
+}
